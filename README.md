@@ -1,2 +1,2 @@
-# start
-repository to start the project
+# javascript track
+repository to keep track of js
